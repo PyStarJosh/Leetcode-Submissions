@@ -6,6 +6,7 @@ My solutions to LeetCode problems, organized by problem number with notes on app
 
 Each problem lives in its own folder under `solutions/`, named with a 4-digit zero-padded problem number followed by the problem slug:
 
+```
 solutions/
 ├── 0001-two-sum/
 │   ├── README.md      # Problem notes, approach, complexity
@@ -14,6 +15,7 @@ solutions/
 │   ├── README.md
 │   └── solution.py
 └── ...
+```
 
 The per-problem README documents the approach, time/space complexity, and any notes worth revisiting later.
 
