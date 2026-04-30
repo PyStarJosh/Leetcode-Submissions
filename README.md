@@ -24,7 +24,7 @@ The per-problem README documents the approach, time/space complexity, and any no
 - **Language:** Python 3
 - **Naming:** Problem folders use `NNNN-problem-slug` format (e.g. `0042-trapping-rain-water`)
 - **One solution per file** unless multiple approaches are worth comparing — in which case `solution_brute.py`, `solution_optimal.py`, etc.
-- Each solution includes the function signature LeetCode expects, plus a small `if __name__ == "__main__"` block with example test cases for local debugging
+- Each solution includes the function signature LeetCode expects
 
 ## Goals
 
