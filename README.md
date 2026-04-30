@@ -19,15 +19,6 @@ solutions/
 
 The per-problem README documents the approach, time/space complexity, and any notes worth revisiting later.
 
-## Index
-
-| #    | Problem                                              | Difficulty | Topics              | Solution                              |
-| ---- | ---------------------------------------------------- | ---------- | ------------------- | ------------------------------------- |
-| 0001 | [Two Sum](https://leetcode.com/problems/two-sum/)    | Easy       | Array, Hash Table   | [Python](./solutions/0001-two-sum/)   |
-| 0015 | [3Sum](https://leetcode.com/problems/3sum/)          | Medium     | Array, Two Pointers | [Python](./solutions/0015-3sum/)      |
-
-<!-- Add new rows as you solve more problems -->
-
 ## Conventions
 
 - **Language:** Python 3
