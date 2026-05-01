@@ -1,7 +1,9 @@
 # 0374. Guess Number Higher or Lower
 
 **Difficulty:** Easy
+
 **Topics:** Binary Search
+
 **Link:** https://leetcode.com/problems/guess-number-higher-or-lower/
 
 ## Approach
