@@ -1,7 +1,9 @@
 # 0035. Search Insert Position
 
 **Difficulty:** Easy
+
 **Topics:** Stack
+
 **Link:** https://leetcode.com/problems/valid-parentheses/
 
 ## Approach
