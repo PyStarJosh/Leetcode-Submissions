@@ -1,7 +1,9 @@
 # 0035. Search Insert Position
 
 **Difficulty:** Easy
+
 **Topics:** Binary Search
+
 **Link:** https://leetcode.com/problems/search-insert-position/
 
 ## Approach
