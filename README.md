@@ -34,7 +34,7 @@ The per-problem README documents the approach, time/space complexity, and any no
 
 ## Progress
 
-- **Easy:** X solved
+- **Easy:** 10 solved
 - **Medium:** X solved
 - **Hard:** X solved
 - **Total:** X / 3000+
