@@ -1,4 +1,4 @@
-# 1768. Valid Palindrome
+# 1768. Merge Strings Alternately
 
 **Difficulty:** Easy
 
