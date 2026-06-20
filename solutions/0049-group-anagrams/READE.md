@@ -1,6 +1,6 @@
 # 0049. Group Anagrams
 
-**Difficulty:** Easy
+**Difficulty:** Medium
 
 **Topics:** HashMap
 
