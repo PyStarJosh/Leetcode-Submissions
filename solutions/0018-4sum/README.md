@@ -1,4 +1,4 @@
-# 0018. $Sum
+# 0018. 4Sum
 
 **Difficulty:** Medium
 
